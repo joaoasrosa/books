@@ -7,3 +7,4 @@ Happy readings!
 ## Book List
 
 * [Chaos Engineering](https://github.com/joaoasrosa/books/blob/master/books/Chaos-Engineering.md)
+* [Mastering Bitcoin](https://github.com/joaoasrosa/books/blob/master/books/Mastering-Bitcoin.md)
